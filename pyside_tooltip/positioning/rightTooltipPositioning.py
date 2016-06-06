@@ -1,4 +1,4 @@
-from gui.tooltip.positioning.tooltipPositioning import TooltipPositioning
+from pyside_tooltip.positioning.tooltipPositioning import TooltipPositioning
 
 
 class RightTooltipPositioning(TooltipPositioning):

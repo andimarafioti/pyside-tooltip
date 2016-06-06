@@ -1,7 +1,7 @@
 # coding: utf-8
 from PySide.QtGui import QColor
 
-from gui.tooltip.positioning.tooltipPositioningWithArrow import TooltipPositioningWithArrow
+from pyside_tooltip.positioning.tooltipPositioningWithArrow import TooltipPositioningWithArrow
 
 __author__ = 'Andres'
 

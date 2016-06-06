@@ -3,7 +3,7 @@ import logging
 
 from PySide.QtGui import QWidget
 
-from gui.tooltip.positioning.tooltipPositioning import TooltipPositioning
+from pyside_tooltip.positioning.tooltipPositioning import TooltipPositioning
 
 __author__ = 'Andres'
 

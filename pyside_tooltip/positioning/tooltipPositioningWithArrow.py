@@ -2,8 +2,8 @@
 from PySide.QtCore import Qt
 from PySide.QtGui import QLabel, QWidget, QHBoxLayout, QVBoxLayout
 
-from gui.tooltip.positioning.tooltipPositioning import TooltipPositioning
-from gui.tooltip.tooltipAlignment import TooltipAlignment
+from pyside_tooltip.positioning.tooltipPositioning import TooltipPositioning
+from pyside_tooltip.tooltipAlignment import TooltipAlignment
 
 __author__ = 'Andres'
 
