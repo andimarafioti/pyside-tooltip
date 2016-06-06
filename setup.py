@@ -5,7 +5,7 @@ __author__ = 'Andres'
 
 
 setup(name='pyside-tooltip',
-      version='0.1.1',
+      version='0.1.2',
       description='Custom tooltip extension for pyside',
       url='https://github.com/andimarafioti/pyside-tooltip',
       author='Andres Marafioti',
