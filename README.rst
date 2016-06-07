@@ -1,4 +1,4 @@
-Custom Tooltips for PySide
+# Custom Tooltips for PySide
 --------
 
 To use you will need to subclass Tooltip or TooltipWithArrow and implement the getWidget function::
