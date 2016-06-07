@@ -19,5 +19,4 @@ Positionings should be TooltipWithArrow.*_POSITIONING if you chose to subclass T
 
 TooltipAlignment should be one of the functions included in TooltipAlignment.
 
-Therefore, a list_of_positioning could be: [(TooltipWithArrow.RIGHT_POSITIONING, alignToTop),
-						(TooltipWithArrow.LEFT_POSITIONING, alignToTop)]
+Therefore, a list_of_positioning could be: [(TooltipWithArrow.RIGHT_POSITIONING, alignToTop), (TooltipWithArrow.LEFT_POSITIONING, alignToTop)]
