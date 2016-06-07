@@ -9,7 +9,7 @@ def readme():
         return f.read()
 
 setup(name='pyside-tooltip',
-      version='0.2',
+      version='0.2.1',
       description='Custom tooltip extension for pyside',
       long_description=readme(),
       classifiers=[
