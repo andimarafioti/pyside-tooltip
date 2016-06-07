@@ -13,7 +13,7 @@ setup(name='pyside-tooltip',
       description='Custom tooltip extension for pyside',
       long_description=readme(),
       classifiers=[
-            'Development Status:: 5 - Production / Stable',
+            'Development Status :: 5 - Production/Stable',
             'License :: OSI Approved :: MIT License',
             'Programming Language :: Python :: 2.7',
             'Environment :: X11 Applications :: Qt',
